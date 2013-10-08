@@ -18,6 +18,6 @@ Since it is very useful, I have taped a demo video for it.
 ![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/checkout1.png)
 ![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/checkout2.png)
 ![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/checkout3.png)
-![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/checkout4.png)
 ![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/adminLogin.png)
 ![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/admin_panel.png)
+![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/checkout4.png)
