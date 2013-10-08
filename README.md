@@ -2,7 +2,7 @@ IERG4210 Assignment (2012 Fall)
 ========
 
 This project is a practical implementation of web programming and security principle.
-Actually, this is a online shopping cart, visitors can buy goods via Paypal (sandbox)
+Actually, this is a online shopping cart, visitors can buy goods via Paypal(sandbox).
 
 ## Features
 * AJAX Shopping cart to Paypal (sandbox) payment.
@@ -10,7 +10,7 @@ Actually, this is a online shopping cart, visitors can buy goods via Paypal (san
 * Secured validation and sanitization in both back-end and front-end to prevent SQL injection, XSS attack, CSRF injection…etc.
 * hosting : AWS EC2
 
-Since it is very useful, I have taped a demo video for it.
+Since it is very useful, I have taped a demo video for it(sorry, i don't have a sexy noise =P)
 <https://www.dropbox.com/s/5x8r7srrm1e4bk3/phase5.avi>
 
 ## Screenshots
