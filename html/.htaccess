@@ -1,0 +1,8 @@
+RewriteEngine On 
+RewriteCond %{HTTPS} !=on
+RewriteCond %{REQUEST_URI} ^/(admin|admin-process|login)\.php
+RewriteRule ^(.*)$ https://secure.shop105.ierg4210.org/$1 [r=301,nc]
+
+RewriteCond %{HTTP_HOST} ^secure
+RewriteCond %{REQUEST_URI} ^/(index\.php)?$
+RewriteRule ^(.*)$ https://secure.shop105.ierg4210.org/admin.php [r=301,nc]
