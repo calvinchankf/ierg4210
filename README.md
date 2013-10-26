@@ -11,7 +11,7 @@ Actually, this is a online shopping cart, visitors can buy goods via Paypal(sand
 * hosting : AWS EC2
 
 Since it is very useful, I have taped a demo video for it(sorry, i don't have a sexy noise =P)
-<iframe width="420" height="315" src="//www.youtube.com/embed/Ol-ZeOspxA8" frameborder="0" allowfullscreen></iframe>
+[video interpretation](http://youtu.be/Ol-ZeOspxA8)
 
 ## Screenshots
 ![Screenshot](https://raw.github.com/calvinchankf/ierg4210/master/screenshots/store.png)
